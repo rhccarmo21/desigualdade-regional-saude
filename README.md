@@ -41,9 +41,13 @@ desigualdade-regional-saude/
 ├── docs/ # Documentação complementar
 
 ├── tests/ # Testes do código
+
 ├── README.md # Este arquivo
+
 ├── requirements.txt # Dependências do projeto
+
 ├── .gitignore # Arquivos a serem ignorados pelo Git
+
 └── LICENSE # Licença do projeto
 
 
