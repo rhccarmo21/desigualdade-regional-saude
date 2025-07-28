@@ -1,46 +1,58 @@
 📊 Desigualdade Regional em Saúde
-
-Estudo de disparidades no acesso à saúde entre regiões brasileiras com dados do SUS e DATASUS.
+Estudo de disparidades no acesso à saúde entre regiões brasileiras, utilizando dados do SUS, DATASUS e outras fontes públicas confiáveis.
 
 🎯 Objetivo
+Este projeto busca identificar e compreender as desigualdades regionais no acesso aos serviços de saúde no Brasil. Através da análise de dados, pretende-se:
 
-Este projeto busca analisar as desigualdades regionais no acesso e na qualidade dos serviços de saúde no Brasil. Por meio da análise de dados, pretende-se:
-- Identificar disparidades no acesso a hospitais, profissionais e atendimentos;
-- Avaliar indicadores de saúde como mortalidade, internações e cobertura vacinal;
-- Oferecer visualizações interativas para apoio à tomada de decisão em políticas públicas.
+Avaliar a distribuição dos serviços de saúde por regiões e municípios;
+
+Investigar disparidades no acesso a tratamentos e infraestrutura;
+
+Oferecer visualizações claras e interativas para apoiar políticas públicas de saúde mais justas e eficientes.
 
 🧰 Tecnologias e Ferramentas
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
-- Jupyter Notebooks
-- Git e GitHub
-- Dados abertos do SUS e DATASUS
-- Dados socioeconômicos do IBGE
+Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 
-📁 Estrutura do Projeto desigualdade-regional-saude/
+Jupyter Notebooks
 
-├── data/            # Dados brutos e processados  
-├── notebooks/       # Jupyter Notebooks com análises  
-├── src/             # Scripts auxiliares e funções  
-├── preprocessing/   # Pré-processamento e limpeza de dados  
-├── outputs/         # Gráficos, tabelas e resultados  
-├── analise/         # Relatórios e interpretações  
-├── docs/            # Documentação complementar  
-├── tests/           # Testes do código  
-├── README.md        # Este arquivo  
-├── requirements.txt # Dependências do projeto  
-├── .gitignore       # Arquivos a serem ignorados pelo Git  
-└── LICENSE          # Licença do projeto  
+Git e GitHub
 
+Dados abertos do SUS e DATASUS
+
+Dados socioeconômicos do IBGE
+
+📁 Estrutura do Projeto
+bash
+Copiar
+Editar
+desigualdade-regional-saude/
+├── data/             # Dados brutos e processados
+├── notebooks/        # Jupyter Notebooks com análises
+├── src/              # Scripts auxiliares e funções
+├── preprocessing/    # Pré-processamento e limpeza de dados
+├── outputs/          # Gráficos, tabelas e resultados
+├── analise/          # Relatórios e interpretações
+├── docs/             # Documentação complementar
+├── tests/            # Testes do código
+├── README.md         # Este arquivo
+├── requirements.txt  # Dependências do projeto
+├── .gitignore        # Arquivos a serem ignorados pelo Git
+└── LICENSE           # Licença do projeto
 📊 Fontes de Dados
 SUS – Sistema Único de Saúde
+
 DATASUS – Departamento de Informática do SUS
+
 IBGE – Instituto Brasileiro de Geografia e Estatística
+
 Dados Abertos do Governo Federal
 
 🔍 Possíveis Perguntas de Pesquisa
-Quais regiões brasileiras apresentam maiores desigualdades no acesso à saúde?
-Como os indicadores de saúde variam segundo fatores socioeconômicos?
-Quais os principais desafios para a equidade no sistema público de saúde?
+Quais regiões apresentam maior dificuldade de acesso aos serviços de saúde?
+
+Existem correlações entre indicadores socioeconômicos e acesso à saúde?
+
+Como a infraestrutura de saúde evoluiu nas diferentes regiões nos últimos anos?
 
 📌 Status do Projeto
 🟢 Em desenvolvimento
