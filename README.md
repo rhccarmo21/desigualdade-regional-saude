@@ -27,12 +27,19 @@ Este projeto busca analisar as desigualdades regionais no acesso aos serviços d
 
 desigualdade-regional-saude/
 ├── data/ # Dados brutos e processados
+
 ├── notebooks/ # Jupyter Notebooks com análises
+
 ├── src/ # Scripts auxiliares e funções
+
 ├── preprocessing/ # Pré-processamento e limpeza de dados
+
 ├── outputs/ # Gráficos, tabelas e resultados
+
 ├── analise/ # Relatórios e interpretações
+
 ├── docs/ # Documentação complementar
+
 ├── tests/ # Testes do código
 ├── README.md # Este arquivo
 ├── requirements.txt # Dependências do projeto
